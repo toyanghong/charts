@@ -1,3 +1,8 @@
+
+更换镜像
+
+`	registry.cn-zhangjiakou.aliyuncs.com/ydocker/kube-state-metrics:v1.5.0` 
+
 # Helm Charts
 
 Use this repository to submit official Charts for Helm. Charts are curated application definitions for Helm. For more information about installing and using Helm, see its
